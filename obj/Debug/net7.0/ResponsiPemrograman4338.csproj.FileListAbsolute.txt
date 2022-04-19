@@ -1,0 +1,15 @@
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\obj\Debug\net7.0\ResponsiPemrograman4338.csproj.AssemblyReference.cache
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\obj\Debug\net7.0\ResponsiPemrograman4338.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\obj\Debug\net7.0\ResponsiPemrograman4338.AssemblyInfoInputs.cache
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\obj\Debug\net7.0\ResponsiPemrograman4338.AssemblyInfo.cs
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\obj\Debug\net7.0\ResponsiPemrograman4338.csproj.CoreCompileInputs.cache
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\bin\Debug\net7.0\ResponsiPemrograman4338.exe
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\bin\Debug\net7.0\ResponsiPemrograman4338.deps.json
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\bin\Debug\net7.0\ResponsiPemrograman4338.runtimeconfig.json
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\bin\Debug\net7.0\ResponsiPemrograman4338.dll
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\bin\Debug\net7.0\ResponsiPemrograman4338.pdb
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\obj\Debug\net7.0\ResponsiPemrograman4338.dll
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\obj\Debug\net7.0\refint\ResponsiPemrograman4338.dll
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\obj\Debug\net7.0\ResponsiPemrograman4338.pdb
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\obj\Debug\net7.0\ResponsiPemrograman4338.genruntimeconfig.cache
+F:\Semester 2\Pemrograman\ResponsiPemrograman4338\obj\Debug\net7.0\ref\ResponsiPemrograman4338.dll
